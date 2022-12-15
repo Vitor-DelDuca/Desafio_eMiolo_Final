@@ -1,5 +1,5 @@
 {
-  "name": "pokedex-0.01",
+  "name": "emiolo-0.01",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,9 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "firebase": "^9.15.0",
     "register-service-worker": "^1.7.1",
+    "spectre.css": "^0.5.9",
     "vite-plugin-host": "^1.0.2",
     "vue": "^3.2.25",
+    "vue-google-oauth2": "^1.5.8",
     "vue-router": "^4.0.13"
   },
   "devDependencies": {
